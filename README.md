@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--          PIYUSH LADUKAR — SPIDER-MAN THEMED README          -->
+<!--          Saksham Yerawar — SPIDER-MAN THEMED README          -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -22,7 +22,7 @@
 <br/>
 
 <!-- ORBITRON NAME — white on dark, large -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=880&height=76&lines=PIYUSH+LADUKAR" alt="Piyush Ladukar"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=880&height=76&lines=PIYUSH+LADUKAR" alt="Saksham Yerawar"/>
 
 <!-- SPIDER-MAN RED SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1&pause=999999&color=FF2222&center=true&vCenter=true&width=880&height=30&lines=FULL-STACK+%E2%80%A2+AI+%E2%80%A2+BACKEND+%E2%80%A2+DATA+SCIENCE" alt="role"/>
