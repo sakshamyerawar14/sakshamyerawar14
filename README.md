@@ -29,11 +29,3 @@ AI-assisted civic complaint registration and department routing.
 Digital pre-consultation intake assistant for busy hospital OPDs.
 
 **Tech:** Next.js, Supabase, OCR, AI
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saksham-yerawar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamyerawar/)
-
----
-
-*Built with GitHub Profile Maker.*
